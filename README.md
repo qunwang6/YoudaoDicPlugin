@@ -22,3 +22,4 @@ A SpotLight plugin for Youdao Dictionary in FlashlightPlugins.
 Press ENTER can see translation in dic.youdao.com with browser
 
 ![](http://whyother.qiniudn.com/QQ20141115-5@2x.png)
+![](http://whyother.qiniudn.com/QQ20141115-6@2x.png)
